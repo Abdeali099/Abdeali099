@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Abdeali Chharchhodawala.
-- 🌱 I’m currently learning Frontend development || DSA .
 
 
 <!---
