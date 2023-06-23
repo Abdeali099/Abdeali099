@@ -1,21 +1,3 @@
-
-
-<!--
-**OmBhatt24/OmBhatt24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <span align="center">
  <h1 align="center" style="color: white; padding-top: 50px;"> Abdeali Chharchhodawala </h1>
 </span>
@@ -28,7 +10,7 @@ Here are some ideas to get you started:
 
 <p>
   <h5>
-   &#8226;As a dedicated student with outstanding academic achievements, I was District Topper of Dahod,Gujarat,India in HSC Board in 2020.
+  As a dedicated student with outstanding academic achievements, I was District Topper of Dahod,Gujarat,India in HSC Board in 2020.
    
     Currently studying at Maharaja Sayajirao University of Baroda, one of the premier universities in India, I possess excellent problem-solving skills that I apply to my work in web development. My proficiency in the React,Java,Servlets, MySQL ,HTML, CSS, JS, and NodeJs combined with my problem-solving abilities, allow me to create effective and innovative solutions for complex web development projects.
 
