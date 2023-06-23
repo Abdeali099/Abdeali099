@@ -74,9 +74,12 @@
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>
   
+   </p>
   
   <hr>
 
+<p>
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
@@ -92,26 +95,26 @@
 ### :octocat: My Github Stats 
   
 <p align="left">
-  <a href="https://github.com/OmBhatt24"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmBhatt24&theme=algolia&show_icons=true" />    
+  <a href="https://github.com/Abdeali099"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdeali099&theme=algolia&show_icons=true" />    
   </a> 
-  <a href="https://github.com/OmBhatt24"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmBhatt24&theme=algolia#version3" /> 
+  <a href="https://github.com/Abdeali099"> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdeali099&theme=algolia#version3" /> 
   </a>
 </p>
 
-<a href="https://github.com/OmBhatt24/github-readme-stats">
-  <img alt="shyam-206's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBhatt24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Abdeali099/github-readme-stats">
+  <img alt="Abdeali's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeali099&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <hr>
 
 ### ❤ Views and Followers
 <br>
 <p>
- <a href="https://github.com/OmBhatt24/github-profile-views-counter">
+ <a href="https://github.com/Abdeali099/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Abdeali099">
  </a>
- <a href="https://github.com/OmBhatt24?tab=followers">
+ <a href="https://github.com/Abdeali099?tab=followers">
   <img src="https://img.shields.io/github/followers/Abdeali099?label=Followers&style=social" alt="GitHub Badge">
  </a>
 </p>
