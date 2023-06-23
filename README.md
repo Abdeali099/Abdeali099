@@ -8,13 +8,15 @@
 
 <hr>
 
+### man_technologist: About Me :
+
   <h5>
   As a dedicated student with outstanding academic achievements, I was District Topper of Dahod,Gujarat,India in HSC Board in 2020.
   </h5>
 
    <h5>
     Currently studying at Maharaja Sayajirao University of Baroda, one of the premier universities in India, I possess excellent problem-solving skills that I apply to my  
-    work in web development. My proficiency in the React,Java,Servlets, MySQL ,HTML, CSS, JS, and NodeJs combined with my problem-solving abilities, allow me to create 
+    work in web development. My proficiency in the React, Java, Servlets, MySQL ,HTML, CSS, JS, and NodeJs combined with my problem-solving abilities, allow me to create 
     effective and innovative solutions for complex web development projects.
 </h5>
 
@@ -44,7 +46,7 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools : </h3>
+### : hammer_and_wrench: Languages and Tools :
 
 <p align="left"> 
 
