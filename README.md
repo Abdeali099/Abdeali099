@@ -38,10 +38,11 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Abdaeli099&style=flat-square&color=blue" alt=""/>
 </div>
 
 </div>
+
+<hr>
 
 <h3 align="left">Languages and Tools : </h3>
 
@@ -104,10 +105,10 @@
 <br>
 <p>
  <a href="https://github.com/OmBhatt24/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=OmBhatt24">
+    <img src="https://komarev.com/ghpvc/?username=Abdeali099">
  </a>
  <a href="https://github.com/OmBhatt24?tab=followers">
-  <img src="https://img.shields.io/github/followers/OmBhatt24?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://img.shields.io/github/followers/Abdeali099?label=Followers&style=social" alt="GitHub Badge">
  </a>
 </p>
 
