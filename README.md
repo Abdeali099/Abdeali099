@@ -12,20 +12,20 @@
 :man_technologist: About Me :
 </h2>
  
-  <h5>
+  <h3>
   As a dedicated student with outstanding academic achievements, I was District Topper of Dahod,Gujarat,India in HSC Board in 2020.
-  </h5>
+  </h3>
 
-   <h5>
+   <h3>
     Currently studying at Maharaja Sayajirao University of Baroda, one of the premier universities in India, I possess excellent problem-solving skills that I apply to my  
     work in web development. My proficiency in the React, Java, Servlets, MySQL ,HTML, CSS, JS, and NodeJs combined with my problem-solving abilities, allow me to create 
     effective and innovative solutions for complex web development projects.
-</h5>
+</h3>
 
- <h5>
+ <h3>
      I am also passionate about continuously improving my skills and staying up-to-date with the latest technologies in the field. As such, I am currently open to 
      internship opportunities that will allow me to further enhance my skills and gain valuable industry experience.
-  </h5>
+  </h3>
 
 <hr>
 
@@ -93,12 +93,15 @@
 ### :octocat: My Github Stats 
   
 <p align="left">
-  <a href="https://github.com/Abdeali099"> 
+  
+ <a href="https://github.com/Abdeali099"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdeali099&theme=algolia&show_icons=true" />    
   </a> 
-  <a href="https://github.com/Abdeali099"> 
+ 
+ <a href="https://github.com/Abdeali099"> 
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdeali099&theme=algolia#version3" /> 
   </a>
+
 </p>
 
 <a href="https://github.com/Abdeali099/github-readme-stats">
