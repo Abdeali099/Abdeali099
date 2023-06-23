@@ -8,7 +8,7 @@
 
 <hr>
 
-### man_technologist: About Me :
+### :man_technologist: About Me :
 
   <h5>
   As a dedicated student with outstanding academic achievements, I was District Topper of Dahod,Gujarat,India in HSC Board in 2020.
@@ -46,7 +46,7 @@
 
 <hr>
 
-### : hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <p align="left"> 
 
