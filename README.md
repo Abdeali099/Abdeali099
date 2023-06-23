@@ -8,9 +8,10 @@
 
 <hr>
 
-<p align="left">
+<h2 align="left">
 ### :man_technologist: About Me :
-</p>
+</h2>
+ 
   <h5>
   As a dedicated student with outstanding academic achievements, I was District Topper of Dahod,Gujarat,India in HSC Board in 2020.
   </h5>
