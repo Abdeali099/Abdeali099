@@ -1,12 +1,14 @@
 <span align="center">
-<!--  <h1 align="center" style="color: white; padding-top: 50px;"> Abdeali Chharchhodawala </h1> -->
- <pre align="center" style="color: white; padding-top: 50px;">
-  public class Greeting {
-    public static void main(String[] args) {
-        System.out.println("Hello, I'm Abdeali Chharchhodawala!");
-    }
-  }
- </pre>
+ 
+ <h1 align="center" style="color: white; padding-top: 50px;"> 
+ 
+ <pre>
+  Abdeali Chharchhodawala
+ </pre> 
+ 
+ </h1> 
+ 
+
 </span>
 
 <div id="header" align="center">
