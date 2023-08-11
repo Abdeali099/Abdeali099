@@ -1,9 +1,9 @@
 <span align="center">
  
- <h1 align="center" style="color: white; padding-top: 50px;"> 
+ <h1 align="center" style="color: white;> 
  
  <pre>
-  Abdeali Chharchhodawala
+ Hello , I'm  Abdeali Chharchhodawala
  </pre> 
  
  </h1> 
