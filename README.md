@@ -1,6 +1,6 @@
 <span align="center">
  
- <h1 align="center" style="color: white;> 
+ <h1 align="center" style="color: white;padding-top: 50px;"> 
  
  <pre>
  Hello , I'm  Abdeali Chharchhodawala
@@ -8,7 +8,6 @@
  
  </h1> 
  
-
 </span>
 
 <div id="header" align="center">
