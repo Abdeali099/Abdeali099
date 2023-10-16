@@ -27,6 +27,8 @@
   </p>
 
  <hr>
+<!--       ![An image of @abdeali099's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdeali099) -->
+<!--  <hr> -->
 
   <!-- Connect with me -->
   <h3>🔗 Connect with me </h3>
