@@ -77,7 +77,7 @@
 
 ## 📊 Hacktoberfest Badges
 
-![image](https://github.com/user-attachments/assets/5eb6bc74-497b-4571-8e70-14e72bd72bb7)
+<!-- [image](https://github.com/user-attachments/assets/5eb6bc74-497b-4571-8e70-14e72bd72bb7) -->
 
 
 ## 📊 My Github Stats
