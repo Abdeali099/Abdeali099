@@ -27,9 +27,7 @@
   </p>
 
  <hr>
-<!--       ![An image of @abdeali099's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdeali099) -->
-<!--  <hr> -->
-
+ 
   <!-- Connect with me -->
   <h3>🔗 Connect with me </h3>
   <div id="badges">
@@ -44,7 +42,7 @@
 
 <hr>
 
-### 🔨 Languages and Tools :
+## 🔨 Languages and Tools :
 
  
 <p align="left">
@@ -77,20 +75,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40" />
 </p>
 
+## 📊 Hacktoberfest Badges
+
+![image](https://github.com/user-attachments/assets/5eb6bc74-497b-4571-8e70-14e72bd72bb7)
 
 
+## 📊 My Github Stats
+![Github Contribution](https://github.com/Abdeali099/Abdeali099/blob/output/github-contribution-grid-snake.svg)
 
-<hr>
-
-### 📊 My Github Stats
-
-<p align="left">
-  <a href="https://github.com/Abdeali099">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdeali099&theme=algolia&show_icons=true" />
-  </a>
-  <a href="https://github.com/Abdeali099">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdeali099&theme=algolia#version3" />
-  </a>
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Abdeali099&theme=algolia&show_icons=true" alt="Abdeali" />
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdeali099&theme=algolia#version3" alt="Abdeali" />
+    </span>
 </p>
 
 <a href="https://github.com/Abdeali099/github-readme-stats">
