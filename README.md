@@ -11,19 +11,7 @@
   <h2 align="left">💻 About Me :</h2>
 
   <p align="left">
-     👨🏼‍🎓 As a dedicated  with outstanding academic achievements, I was the District Topper of Dahod, Gujarat, India in HSC Board in 2020.
-  </p>
-
-<p align="left">
-  - Currently, I am pursuing my studies at Maharaja Sayajirao University of Baroda, one of the premier universities in India. <br>
-  - I possess excellent problem-solving skills, which I apply to my work in web development.  <br>
-  - My proficiency in React, Java, MySQL, HTML, CSS, JS, and Node.js, combined with my strong problem-solving abilities, empowers me to craft effective and innovative solutions for complex web development projects.  <br>
-  - Additionally, I am currently expanding my skill set by learning Spring Boot and Python.  <br>
-  -I also have a basic understanding of Express, MongoDB, and PHP.  <br>
-</p>
-
-  <p align="left">
-    I am also passionate about continuously improving my skills and staying up-to-date with the latest technologies in the field.
+    I am passionate about continuously improving my skills and staying up-to-date with the latest technologies in the field.
   </p>
 
  <hr>
@@ -77,11 +65,11 @@
 
 ## 📊 Hacktoberfest Badges
 
-<!-- [image](https://github.com/user-attachments/assets/5eb6bc74-497b-4571-8e70-14e72bd72bb7) -->
+![image](https://github.com/user-attachments/assets/b59fa0a5-35d8-4c39-92b4-f4e0321c73ca)
 
 
 ## 📊 My Github Stats
-![Github Contribution](https://github.com/Abdeali099/Abdeali099/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Github Contribution](https://github.com/Abdeali099/Abdeali099/blob/output/github-contribution-grid-snake.svg) -->
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
